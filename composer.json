@@ -1,0 +1,11 @@
+{
+    "name": "digimix/gravityformsfreshbooks",
+    "description": "Private repo for loading the Gravity Forms Freshbooks WordPress plugin via Composer.",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.5"
+    },
+    "version": "1.0",
+    "keywords": ["wordpress"],
+    "homepage": "https://www.gravityhelp.com/downloads/"
+    }
